@@ -1,0 +1,21 @@
+1) Пропусков немного, около 2х процентов среди всех значений.
+Столбцы с пропусками + количество:
+first_blood_time               19553
+first_blood_team               19553
+first_blood_player1            19553
+first_blood_player2            43987
+radiant_bottle_time            15691
+radiant_courier_time             692
+radiant_flying_courier_time    27479
+radiant_first_ward_time         1836
+dire_bottle_time               16143
+dire_courier_time                676
+dire_flying_courier_time       26098
+dire_first_ward_time            1826
+
+Пропуски для признака first_blood_player2 ознчают, что иногда в проливании первой крови участвовал
+только один игрок без посторонней помощи
+Пропуски для признака radiant_flying_courier_time говорят о том, что предмет flying_courier покупался
+далеко не во всех играх
+
+
